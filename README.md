@@ -12,7 +12,6 @@ Me gusta mucho diseñar interfaces de usuario🎨 y darles funcionalidad ⚙, ta
       <li>CSS</li>
       <li>JavaScript</li>
       <li>React JS</li>
-      <li>Redux</li>
       <li>Material UI</li>
       <li>Git</li>
       <li>Github</li>
