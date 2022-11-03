@@ -3,7 +3,7 @@ Hola, Me llamo Belen!
 <h3>Acerca de mí</h3>
 Me gusta mucho diseñar interfaces de usuario🎨 y darles funcionalidad ⚙, también, me gusta involucrarme en diferentes tipos de proyectos para aumentar mi conocimiento. <br>
 
-<h4>🎈Mis pasatiempos</h4>
+<h4>Mis pasatiempos</h4>
  Veo series y películas, hago ejercicio y juego con mis perritos🐾
 
 <h3>Habilidades técnicas:</h3>
